@@ -1,0 +1,6 @@
+com\fullstack\student\Service\StudentService.class
+com\fullstack\student\Service\StudentServiceImpl.class
+com\fullstack\student\StudentApplication.class
+com\fullstack\student\controller\StudentController.class
+com\fullstack\student\module\Student.class
+com\fullstack\student\repo\StudentRepository.class
